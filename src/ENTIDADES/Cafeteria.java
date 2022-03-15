@@ -32,6 +32,7 @@ import javax.swing.JOptionPane;
 public class Cafeteria {
     public int capacidadMaxima = 1000;
     public int cantidadActual = 0;
+    public int Atributo1;
     
     public Cafeteria() { }
     

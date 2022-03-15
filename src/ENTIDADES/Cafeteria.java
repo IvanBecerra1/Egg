@@ -38,7 +38,7 @@ public class Cafeteria {
     
     public void llenarCafetera() {
         cantidadActual = capacidadMaxima;
-        JOptionPane.showMessageDialog(null, "Cafetera Llena!");
+        JOptionPane.showMessageDialog(null, "Cafetera Llena! Si esta llena bro");
     }
     public void vaciarCafetera() {
         JOptionPane.showMessageDialog(null, "Cafetera Vacia!");

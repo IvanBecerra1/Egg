@@ -34,6 +34,8 @@ public class Cafeteria {
     public int cantidadActual = 0;
     public int Atributo1;
     
+    public String agustin;/// Checkout
+    
     public Cafeteria() { }
     
     public void llenarCafetera() {
